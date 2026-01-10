@@ -4,6 +4,7 @@ An open-source dictionary aimed at making modern **Web3, blockchain, and crypto 
 
 This project focuses on correctness, consistency, and long-term usefulness for both learners and professionals.
 
+![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
 
 ## 📍 Quick Links
 - 📖 [View Dictionary](dictionary.md)

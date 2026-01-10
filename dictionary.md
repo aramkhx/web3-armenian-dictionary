@@ -55,4 +55,4 @@
 | distributed ledger technology (DLT) | բաշխված գրանցամատյանի տեխնոլոգիա |
 | do your own research (DYOR) | կատարեք ձեր սեփական հետազոտությունը |
 | double spending | կրկնակի ծախսեր |
-| due diligence (DD) | պատշաճ ուսունասիրություն |
+| due diligence (DD) | պատշաճ ուսումնասիրություն |
