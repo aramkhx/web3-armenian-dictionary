@@ -32,11 +32,11 @@
 | centralized exchange (CEX) | կենտրոնացված բորսա |
 | centralized finance (CeFi) | կենտրոնացված ֆինանսներ |
 | censorship-resistance | ցենզուրայի դիմադրողականություն |
+| chain | շղթա |
 | circulating supply | շրջանառվող քանակ |
 | coin | քոին |
 | collateral | գրավ |
 | cold wallet | սառը դրամապանակ |
-| chain | շղթա
 | composability | համատեղելիություն |
 | consensus | կոնսենսուս, համաձայնություն |
 | cross-chain | միջշղթայական |
@@ -68,3 +68,15 @@
 | exchange-traded fund (ETF) | բորսայական առևտրային ֆոնդ |
 | execution layer | կատարման շերտ |
 | exit point | ելքի կետ |
+| fear of missing out (FOMO) | բաց թողնված հնարավորության վախ |
+| fear, uncertainty, and doubt (FUD) | վախ, անորոշություն և կասկած |
+| fee | միջնորդավճար |
+| fiat | արժույթ |
+| floor price | նվազագույն շուկայական գին |
+| fork | թարմացում, ճյուղավորում |
+| full node | լիարժեք հանգույց |
+| funding rate | ֆինանսավորման տոկոսադրույք |
+| fungible | փոխարինելի |
+| futures | ֆյուչերս |
+| gas | գազ |
+    
