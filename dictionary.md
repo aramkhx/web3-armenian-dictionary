@@ -78,5 +78,12 @@
 | funding rate | ֆինանսավորման տոկոսադրույք |
 | fungible | փոխարինելի |
 | futures | ֆյուչերս |
-| gas | գազ |
-    
+| gas | գազ |   
+| halving | հալվինգ |
+| hard fork | կոշտ ճյուղավորում |
+| hardware wallet | ապարատային դրամապանակ |
+| hashing | հեշավորում | 
+| hashrate | հեշավորման արագություն |
+| have fun staying poor (HFSP) | զվարճացե՛ք աղքատ մնալով |
+| hold on for dear life (HODL) | երկարաժամկետ պահում |
+| hot wallet | տաք դրամապանակ |
