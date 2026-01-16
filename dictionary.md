@@ -40,6 +40,7 @@
 | composability | համատեղելիություն |
 | consensus | կոնսենսուս, համաձայնություն |
 | cross-chain | միջշղթայական |
+| cross margin | խաչաձև մարժա |
 | cryptocurrency | կրիպտոարժույթ |
 | cryptography | գաղտնագրություն, կրիպտոգրաֆիա | 
 | custodial wallet | երրորդ կողմի կողմից կառավարվող դրամապանակ |  
@@ -87,3 +88,10 @@
 | have fun staying poor (HFSP) | զվարճացե՛ք աղքատ մնալով |
 | hold on for dear life (HODL) | երկարաժամկետ պահում |
 | hot wallet | տաք դրամապանակ |
+| immutable | անփոփոխ |
+| inflation | ինֆլյացիա, արժեզրկում |
+| initial coin offering (ICO) | նախնական կրիպտոարժույթի/թոքենի առաջարկ |
+| initial DEX offering (IDO) | ապակենտրոն բորսայում իրականացվող նախնական առաջարկ |
+| initial public offering (IPO) | նախնական հրապարակային առաջարկ |
+| institutional | ինստիտուցիոնալ |
+| isolated margin | մեկուսացված մարժա |
