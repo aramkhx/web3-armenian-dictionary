@@ -89,9 +89,14 @@
 | hold on for dear life (HODL) | երկարաժամկետ պահում |
 | hot wallet | տաք դրամապանակ |
 | immutable | անփոփոխ |
+| indicator | ինդիկատոր |
 | inflation | ինֆլյացիա, արժեզրկում |
 | initial coin offering (ICO) | նախնական կրիպտոարժույթի/թոքենի առաջարկ |
 | initial DEX offering (IDO) | ապակենտրոն բորսայում իրականացվող նախնական առաջարկ |
 | initial public offering (IPO) | նախնական հրապարակային առաջարկ |
 | institutional | ինստիտուցիոնալ |
 | isolated margin | մեկուսացված մարժա |
+| key | բանալի |
+| know your business (KYB) | ճանաչիր քո բիզնեսին (իրավաբանական անձանց / ընկերությունների նույնականացում) |
+| know your customer (KYC) | ճանաչիր քո հաճախորդին (հաճախորդի նույնականացում) |
+| know your transaction (KYT) | ճանաչիր քո գործարքը (գործարքների մոնիտորինգ) |
