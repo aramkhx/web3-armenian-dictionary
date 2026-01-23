@@ -95,8 +95,19 @@
 | initial DEX offering (IDO) | ապակենտրոն բորսայում իրականացվող նախնական առաջարկ |
 | initial public offering (IPO) | նախնական հրապարակային առաջարկ |
 | institutional | ինստիտուցիոնալ |
+| interest rate | տոկոսադրույք |
 | isolated margin | մեկուսացված մարժա |
 | key | բանալի |
 | know your business (KYB) | ճանաչիր քո բիզնեսին (իրավաբանական անձանց / ընկերությունների նույնականացում) |
 | know your customer (KYC) | ճանաչիր քո հաճախորդին (հաճախորդի նույնականացում) |
 | know your transaction (KYT) | ճանաչիր քո գործարքը (գործարքների մոնիտորինգ) |
+| launchpad | մեկնարկային հարթակ |
+| ledger | գրանցամատյան |
+| lending | վարկավորում |
+| leverage | գործակից |
+| light node | թեթև հանգույց |
+| limit order | լիմիտային գործարք |
+| liquidation | լիկվիդացիա |
+| liquidity | լիկվիդայնություն |
+| liquidity pool | լիկվիդայնության ֆոնդ |
+| lock-up period | արգելափակման ժամանակահատված |
