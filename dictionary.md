@@ -59,6 +59,7 @@
 | deterministic wallet (HD Wallet) | (հիերարխիկ) դետերմինիստական դրամապանակ | 
 | digital signature | թվային ստորագրություն |
 | distributed ledger technology (DLT) | բաշխված գրանցամատյանի տեխնոլոգիա |
+| diversification | դիվերսիֆիկացիա |
 | do your own research (DYOR) | կատարեք ձեր սեփական հետազոտությունը |
 | double spending | կրկնակի ծախսեր |
 | due diligence (DD) | պատշաճ ուսումնասիրություն |
@@ -92,6 +93,7 @@
 | hashing | հեշավորում | 
 | hashrate | հեշավորման արագություն |
 | have fun staying poor (HFSP) | զվարճացե՛ք աղքատ մնալով |
+| hedging | հեջավորում |
 | hold on for dear life (HODL) | երկարաժամկետ պահում |
 | hot wallet | տաք դրամապանակ |
 | immutable | անփոփոխ |
@@ -102,6 +104,8 @@
 | initial public offering (IPO) | նախնական հրապարակային առաջարկ |
 | institutional | ինստիտուցիոնալ |
 | interest rate | տոկոսադրույք |
+| internal rate of return (IRR) | ներքին եկամտաբերության մակարդակ |
+| investment | ներդրում |
 | isolated margin | մեկուսացված մարժա |
 | key | բանալի |
 | know your business (KYB) | ճանաչիր քո բիզնեսին (իրավաբանական անձանց / ընկերությունների նույնականացում) |
@@ -154,3 +158,13 @@
 | pseudonym | ծածկանուն |
 | public key | հանրային բանալի | 
 | pump | գնի կտրուկ աճ |
+| quantum | քվանտային |
+| quantum-resistant cryptography | քվանտակայուն գաղտնագրություն |
+| quarterly futures | եռամսյակային/ժամկետային ֆյուչերսներ |
+| qubit | քվանտային բիթ |
+| real world assets (RWA) | իրական աշխարհի ակտիվներ |
+| recovery phrase | վերականգնման արտահայտություն |
+| reserve | ռեզերվ |
+| resistance level | դիմադրության մակարդակ |
+| return on investment (ROI) | ներդրման եկամտաբերություն |
+| risk/reward ratio (R/R Ratio) | ռիսկ-օգուտ հարաբերակցություն |
