@@ -127,7 +127,7 @@
 | market maker | մարկետ մեյքեր |
 | market order | շուկայական գործարք |
 | master node | գլխավոր հանգույց |
-| max supply | առավելագույն առաջարկ |
+| max supply | առավելագույն քանակ |
 | metaverse | մետատիեզերք |
 | miner | մայներ |
 | mining | մայնինգ |
@@ -183,3 +183,19 @@
 | stop-loss (SL) | կորստի սահման |
 | swap | փոխարկում |
 | symmetric encryption | համաչափ գաղտնագրություն |
+| take-profit (TP) | շահույթի ֆիքսման կետ | 
+| testnet | թեստային ցանց |
+| token | թոքեն |
+| tokenization | թոքենիզացիա |
+| token burning | թոքենների ոչնչացում |
+| token generation event (TGE) | թոքենների թողարկման իրադարձություն |
+| total supply | ընդհանուր քանակ |
+| trading pair | առևտրային զույգ |
+| trading volume | գործարքների ծավալ |
+| transaction | գործարք |
+| unrealized profit & loss (UPnL) | չիրացված շահույթ և կորուստ |
+| validator | վալիդատոր |
+| vesting | թոքենների աստիճանական թողարկում |
+| virtual asset | վիրտուալ ակտիվ |
+| virtual machine (VM) | վիրտուալ մեքենա |
+| volatility | տատանողականություն |

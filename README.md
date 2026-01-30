@@ -11,6 +11,7 @@ This project focuses on correctness, consistency, and long-term usefulness for b
 - 🤝 [How to Contribute](CONTRIBUTING.md)
 - ⚖️ [License](#-license)
 - 🚀 [Future Plans](#-future-plans)
+- 💖 [Support the Project](#-support-the-project)
 
 
 ## ✨ Why This Project Exists
@@ -82,6 +83,15 @@ As long as proper credit is given to this repository.
 - Machine-readable exports (JSON / YAML)
 - Website version (GitHub Pages / IPFS)
 - Structured community review and moderation process
+
+
+## 💖 Support the Project
+
+If you find this dictionary helpful, you can support its development with crypto donations:  
+
+- **BTC:** `bc1qdmum93kana8clelxf22c3kzdwslh5vquqtcgqa`
+- **ETH / BSC:** `0x036E5c45be83eFacA25b8AeB263Af34696F349EC`
+- **SOL:** `EQUDJmMk5tk5xWXNoPgMN77Lu5WnXx5nvwjkZHxofPvu`
 
 
 ## ❤️ Acknowledgements
