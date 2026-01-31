@@ -163,7 +163,7 @@
 | quarterly futures | եռամսյակային/ժամկետային ֆյուչերսներ |
 | qubit | քվանտային բիթ |
 | real world assets (RWA) | իրական աշխարհի ակտիվներ |
-| recovery phrase | վերականգնման արտահայտություն |
+| recovery phrase | վերականգնման բառեր |
 | reserve | ռեզերվ |
 | resistance level | դիմադրության մակարդակ |
 | return on investment (ROI) | ներդրման եկամտաբերություն |
@@ -172,6 +172,7 @@
 | Satoshi Nakamoto | Սատոշի Նակամոտո |
 | scalability | մասշտաբայնություն |
 | scalping | սկալպինգ |
+| seed phrase | բանալի բառեր |
 | shitcoin | շիթքոին |
 | sidechain | կողմնակի շղթա |
 | smart contract | խելացի պայմանագիր |
@@ -190,6 +191,7 @@
 | token burning | թոքենների ոչնչացում |
 | token generation event (TGE) | թոքենների թողարկման իրադարձություն |
 | total supply | ընդհանուր քանակ |
+| total value locked (TVL) | արգելափակված ակտիվների ընդհանուր արժեք |
 | trading pair | առևտրային զույգ |
 | trading volume | գործարքների ծավալ |
 | transaction | գործարք |
