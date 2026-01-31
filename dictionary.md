@@ -109,7 +109,7 @@
 | isolated margin | մեկուսացված մարժա |
 | key | բանալի |
 | know your business (KYB) | իրավաբանական անձանց / ընկերությունների նույնականացում |
-| know your customer (KYC) | ինքնության ստուգում |
+| know your customer (KYC) | հաճախորդի նույնականացում |
 | know your transaction (KYT) | գործարքների մոնիտորինգ |
 | launchpad | մեկնարկային հարթակ |
 | ledger | գրանցամատյան |
