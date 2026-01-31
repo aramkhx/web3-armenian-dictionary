@@ -65,7 +65,7 @@
 | due diligence (DD) | պատշաճ ուսումնասիրություն |
 | dump | գնի կտրուկ անկում |
 | ecosystem | էկոհամակարգ |
-| emission | էմիսիա |
+| emission | թողարկում |
 | encryption | գաղտնագրում |
 | entry point | մուտքի կետ |
 | escrow | էսքրոու |
