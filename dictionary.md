@@ -202,7 +202,7 @@
 | wallet | դրամապանակ |
 | wallet аddress | դրամապանակի հասցե |
 | whitelist | սպիտակ ցուցակ |
-| withdrawal | կանխիկացում |
+| withdrawal | ելքագրում |
 | yield | եկամտաբերություն, եկամուտ |
 | yield аggregator | եկամտաբերության ագրեգատոր |
 | yield farming | եկամտաբերության ֆարմինգ |
