@@ -55,6 +55,7 @@
 | decentralized exchange (DEX) | ապակենտրոն բորսա |
 | decentralized identity (DID) | ապակենտրոն ինքնություն |
 | decryption | վերծանում |
+| deposit | դեպոզիտ |
 | derivation path | ստացման ուղի |
 | deterministic wallet (HD Wallet) | (հիերարխիկ) դետերմինիստական դրամապանակ | 
 | digital signature | թվային ստորագրություն |
